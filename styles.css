@@ -1,7 +1,7 @@
 body {
     text-align: center;
     font-family: 'Happy Monkey', cursive;
-    background: linear-gradient(#1f1c2c, #928DAB);
+    background: linear-gradient(#1f1c2c, #534b4f);
     color: #FAFFFD;
 }
 
@@ -58,7 +58,7 @@ h1, h2, h3, h4, p {
     margin: 20px auto;
     max-width: 400px;
     height: 400px;
-    border: 6px solid #F2C94C; /* fun party yellow */
+    border: 6px solid #3b6594; /* fun party yellow */
     border-radius: 10px;
     background-image: url("images/gift-cover.jpg");
     background-size: cover;
